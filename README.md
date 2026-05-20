@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hermann Azong
 
 ## PHP Backend Engineer
