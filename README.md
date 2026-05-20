@@ -84,8 +84,8 @@ Here you can find some of my recent contributions and pull requests:
 
 ### TYPO3 Backend Projects
 - Backend modules with Extbase & Fluid
-- API integrations for enterprise CMS workflows
-- Docker-based TYPO3 development environments
+
+[TYPO3 File Uploader](https://github.com/hermannatz/typo3-file-uploader)
 
 
 ---
