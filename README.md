@@ -112,7 +112,7 @@ Building enterprise-grade backend solutions and contributing to the TYPO3 ecosys
 ## Connect With Me
 
 - GitHub: https://github.com/hermannatz
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/hermann-azong-1262764b/)
+- LinkedIn: [](https://www.linkedin.com/in/hermann-azong-1262764b/)
 - TYPO3 Contributions: Coming soon
 
 ---
